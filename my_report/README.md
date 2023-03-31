@@ -1,18 +1,28 @@
 # Lesson: Digital Storytelling
 
-### First and Last Name: xxx
-### University Registration Number: dpsdxxxxx
-### GitHub Personal Profile: xxx
-### Digital-Storytelling-Individual-Assignment: xxx
+### First and Last Name: ELENI HARB
+### University Registration Number: dpsd19135
+### GitHub Personal Profile: https://github.com/ELENIHARB
+### Digital-Storytelling-Individual-Assignment: https://github.com/ELENIHARB/Digital-Storytelling-Individual-Assignment
 
-# Introduction
+#Itroduction
 
+Είμαι η Ελένη Χαρμπ με Dpsd19135 , στο 8ο εξάμηνο του Τμήματος Μηχανικών Σχεδίασης Προϊόντων και Συστημάτων. Στο μάθημα  Ψηφιακές Μοερφές Αφήγησης / Digital Storytelling στο οποίο μέσο της ατομικής μου εργασίας δημιούργησα βήμα βήμα μια πόλη κάπως ασυνήθιστη αλλά είναι πόλη.
 
 
 # Summary
+Η εργασία αυτή αποτελείται από 3 παραδοτέα για τα οποία μεγαλύτερο κομμάτι του να τα υλοποιήσω ήταν τα tutorial που προσπάθησα να ακολουθήσω πιστά.Καθώς ήταν η πρώτη μου επαφή με το Unity και του GitHub τα tutorial ήταν πολύ σημαντικά στην υλοποίησης των παραδοτέο αλλά και στην κατανόησης της διαδικασία και δημιουργίας animation . 
 
 
 # 1st Deliverable
+Αρχικά ακολούθησα τα βήμα για την εγκατάσταση του Unity Hub στον προσωπικό μου υπολογιστή . Παρόλα αυτά η εργασία έγινε στους υπολογιστές της σχολής γιατί έτρεχε καλύτερα το Unity , όπου κει έφτιαξα το προσωπικό μου λαό φασισμό . Για το πρώτο κομμάτι του πρώτου παραδοτέου χρησιμοποίησα την έκδοση του 2020 . Για την δημιουργία της πόλης έπρεπε πρώτα να κατεβάσω το δεδομένο αρχείο όπου και αποτελούσε το background την πόλη όπου και τοποθέτησε και άλλαξα το χρώμα του .  Στην συνέχεια με το GameObject πρόσθεσε στην πόλη μου και αλλά σχήματα στο οποία το αποτέλεσμα υπάρχει μια σύγχυση . Καθώς η προσπάθεια ήταν αναγνωριστική έπαιξα με τα χρώματα , τις υφές και τα σχήματα .
+Εδώ είναι το βίντεο από την πόλη μου :
+
+
+https://user-images.githubusercontent.com/127799605/229224602-7c8ecadb-f47d-4a6e-ba48-bbb20fa422ce.mp4
+
+
+
 
 
 # 2nd Deliverable
